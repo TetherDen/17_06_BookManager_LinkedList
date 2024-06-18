@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\bin\Debug\net8.0\hw_17_06_LinkedList.exe
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\bin\Debug\net8.0\hw_17_06_LinkedList.deps.json
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\bin\Debug\net8.0\hw_17_06_LinkedList.runtimeconfig.json
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\bin\Debug\net8.0\hw_17_06_LinkedList.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\bin\Debug\net8.0\hw_17_06_LinkedList.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\hw_17_06_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\hw_17_06_LinkedList.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\hw_17_06_LinkedList.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\hw_17_06_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\hw_17_06_LinkedList.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\refint\hw_17_06_LinkedList.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\hw_17_06_LinkedList.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\hw_17_06_LinkedList.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_17_06_LinkedList\obj\Debug\net8.0\ref\hw_17_06_LinkedList.dll
